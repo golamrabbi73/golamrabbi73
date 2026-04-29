@@ -6,7 +6,7 @@
 ### 🚀 Frontend Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Developer;Future+AI+Engineer&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Mim+Frontend+Developer;React+Developer;Future+AI+Engineer&center=true&width=500&height=45">
 </p>
 
 ---
