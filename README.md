@@ -1,5 +1,5 @@
 <!-- ===================== BANNER ===================== -->
-https://ibb.co.com/hR34dD7k
+![Banner](https://ibb.co.com/hR34dD7k)
 
 
 # Hi 👋, I'm Golam Rabbi  
