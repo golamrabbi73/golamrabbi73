@@ -5,17 +5,21 @@
 # Hi 👋, I'm Golam Rabbi  
 ### 🚀 Frontend Developer
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Developer;Future+AI+Engineer&center=true&width=500&height=45">
+</p>
+
 ---
 
 ## 🙋 About Me
 
 I am a passionate Frontend Developer focused on building modern, responsive, and high-performance web applications.
 
-- 🌱 Currently exploring **Next.js (App Router & SSR)**
-- 🔭 Building real-world **React + Next.js projects**
-- 🎯 Focused on clean UI, performance & user experience
-- 🧠 Improving problem-solving & system thinking
-- ⚡ Love turning UI ideas into real products
+- 🌱 Exploring Next.js (App Router & SSR)
+- 🔭 Building real-world React projects
+- 🎯 Focused on clean UI & performance
+- 🧠 Improving problem-solving mindset
+- ⚡ Turning ideas into real-world products
 
 ---
 
