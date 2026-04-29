@@ -1,5 +1,5 @@
 <!-- ===================== BANNER ===================== -->
-![Banner](https://ibb.co.com/hR34dD7k)
+![Banner](https://i.ibb.co.com/G3QXTWnp/Chat-GPT-Image-Apr-29-2026-06-52-53-PM.png)
 
 
 # Hi 👋, I'm Golam Rabbi  
