@@ -71,7 +71,7 @@ I am a passionate Frontend Developer focused on building modern, responsive, and
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=golamrabbi73&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=golamrabbi73&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
