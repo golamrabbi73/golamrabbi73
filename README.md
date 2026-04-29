@@ -75,13 +75,13 @@ I am a passionate Frontend Developer focused on building modern, responsive, and
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=golamrabbi73&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=golamrabbi73&layout=compact&theme=tokyonight" />
 </p>
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=golamrabbi73" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=golamrabbi73&theme=tokyonight" />
 </p>
 
 ---
