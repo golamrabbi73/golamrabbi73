@@ -95,6 +95,20 @@
 
 ---
 
+### 🏠 Tile Gallery Platform
+
+- 🌐 Live: [Live Demo](https://assignment-08-alpha.vercel.app/)
+- 💻 GitHub: [Repository](https://github.com/golamrabbi73/assignment-08)
+- 🛠️ Tech: Next.js 15, React, Tailwind CSS, DaisyUI, HeroUI, MongoDB, BetterAuth, SwiperJS
+- ✨ Features:
+  - Modern and responsive UI with Next.js App Router
+  - Dynamic tile gallery with search functionality
+  - Secure authentication with BetterAuth and Google Sign-In
+  - User profile management with update functionality
+  - Featured tiles, Swiper slider, and private route protection
+
+---
+
 ### 🚗 DriveFleet – Car Rental Platform
 
 - 🌐 Live: [Live Demo](https://my-assignment09.vercel.app)
