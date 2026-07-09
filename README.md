@@ -3,23 +3,29 @@
 
 
 # Hi 👋, I'm Golam Rabbi  
-### 🚀 Frontend Developer
+### 🚀 Full Stack Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Developer;Future+AI+Engineer&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+Developer;Future+AI+Engineer&center=true&width=500&height=45">
 </p>
 
 ---
 
 ## 🙋 About Me
 
-I am a passionate Frontend Developer focused on building modern, responsive, and high-performance web applications.
+I am a passionate Frontend Developer with experience in React and Next.js.
+I enjoy building modern, responsive, and user-friendly web applications.
+I love learning new technologies and solving real-world problems through code.
+My goal is to become a skilled Full Stack Developer and Software Engineer.
 
-- 🌱 Exploring Next.js (App Router & SSR)
-- 🔭 Building real-world React projects
-- 🎯 Focused on clean UI & performance
-- 🧠 Improving problem-solving mindset
-- ⚡ Turning ideas into real-world products
+---
+
+## 🚀 Current Activities
+
+- 🚀 Building AI-powered full-stack web applications
+- 🤖 Developing an AI Prompt Sharing Marketplace
+- 🌱 Learning TypeScript
+- 💻 Solving coding problems on LeetCode
 
 ---
 
@@ -33,27 +39,40 @@ I am a passionate Frontend Developer focused on building modern, responsive, and
 
 ## 🛠️ Tech Stack
 
-### 🌐 Core Languages
+### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 </p>
 
-### ⚛️ Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Recharts-22C55E?style=for-the-badge" />
 </p>
 
-### 🎨 Styling
+### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-### 🧩 UI Library
+### 🔐 Authentication
 <p>
-  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=firebase" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 </p>
 
-### ⚙️ Tools
+### 💳 Payment
+<p>
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+</p>
+
+### ☁️ Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+</p>
+
+### 🛠️ Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
@@ -84,28 +103,28 @@ I am a passionate Frontend Developer focused on building modern, responsive, and
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=golamrabbi73&theme=tokyonight" />
 </p>
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=golamrabbi73&theme=tokyo-night" />
+</p>
+
 ---
 
 ## 📌 Featured Projects
 
-### 🚀 
-- 🌐 Live: 
-- 🛠 Tech: React, Tailwind, API
-- ✨ Features: Responsive UI, dynamic places, search system
+### 🤖 AI Prompt Sharing Marketplace
 
----
-
-### 🚀 Portfolio Website
-- 🌐 Live: 
-- 🛠 Tech: 
-- ✨ Features: SEO optimized, fast performance, modern UI
-
----
-
-### 🚀 E-commerce UI
-- 🌐 Live: 
-- 🛠 Tech: 
-- ✨ Features: Cart system, authentication, product filtering
+- 🌐 Live: https://your-live-link.com
+- 💻 GitHub: https://github.com/golamrabbi73/your-repo
+- 🛠 Tech: React, Next.js, Node.js, Express.js, MongoDB, Firebase Auth, JWT, TanStack Query, Stripe, Framer Motion
+- ✨ Features:
+  - AI Prompt Sharing & Marketplace
+  - Secure Authentication
+  - Stripe Payment Integration
+  - Role-based Dashboard
+  - Prompt Management
+  - Responsive Design
 
 ---
 
