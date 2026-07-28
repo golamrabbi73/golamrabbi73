@@ -7,7 +7,7 @@
   />
 </p>
 
-<h1 align="center">Hi 👋, I'm Golam Rabbi</h1>
+<h1 align="center">Hi 👋, I'm Md. Golam Rabbe</h1>
 
 <h3 align="center">🚀 Full Stack Developer</h3>
 
