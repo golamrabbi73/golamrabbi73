@@ -44,9 +44,9 @@ I'm **Md. Golam Rabbe**, a full stack developer building with **React, Next.js, 
 
 ## 🚀 Current Focus
 
-- 🏗️ Adding features and improving UX on **GeoLog** (deployed) — role-based access and core sample/well modules already live, working on search, pagination, and view/edit flows
-- 🚗 **DriveFleet** is in maintenance mode — stable, not under active feature development right now
-- 🧠 Just getting started with DSA basics on LeetCode
+- 🏗️ Improving **GeoLog** with new features, search, pagination, and UX enhancements
+- ⚙️ Strengthening my full-stack development skills by building production-ready applications
+- 🧠 Learning **Advanced TypeScript** and practicing DSA on LeetCode
 
 ---
 
