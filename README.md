@@ -61,6 +61,11 @@ Hi, I'm **Golam Rabbi**, a passionate **Full Stack Developer** focused on buildi
   📱 <strong>Phone:</strong> +880 1522127196
   <br/>
   📍 <strong>Location:</strong> Jashore, Bangladesh
+  <br/>
+  🌐 <strong>Portfolio:</strong>
+  <a href="https://portfolio-seven-mauve-98.vercel.app/">
+    portfolio-seven-mauve-98.vercel.app
+  </a>
 </p>
 
 ---
@@ -211,6 +216,13 @@ Hi, I'm **Golam Rabbi**, a passionate **Full Stack Developer** focused on buildi
     <img 
       src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" 
       alt="GitHub" 
+    />
+  </a>
+
+  <a href="https://portfolio-seven-mauve-98.vercel.app/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" 
+      alt="Portfolio" 
     />
   </a>
 
