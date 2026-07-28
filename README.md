@@ -60,7 +60,7 @@ Hi, I'm **Md. Golam Rabbe**, a passionate **Full Stack Developer** focused on bu
   <br/>
   📱 <strong>Phone:</strong> +880 1522127196
   <br/>
-  📍 <strong>Location:</strong> Jashore, Bangladesh
+  📍 <strong>Location:</strong> Sirajganj, Bangladesh
   <br/>
   🌐 <strong>Portfolio:</strong>
   <a href="https://portfolio-seven-mauve-98.vercel.app/">
@@ -235,7 +235,7 @@ Hi, I'm **Md. Golam Rabbe**, a passionate **Full Stack Developer** focused on bu
 </p>
 
 <p align="center">
-  📍 <strong>Jashore, Bangladesh</strong>
+  📍 <strong>Sirajganj, Bangladesh</strong>
   &nbsp; | &nbsp;
   📱 <strong>+880 1522127196</strong>
 </p>
