@@ -34,7 +34,7 @@
 I'm **Md. Golam Rabbe**, a full stack developer building with **React, Next.js, Node.js, TypeScript, and MongoDB**.
 
 - 🏗️ Currently improving **GeoLog** — a deployed B2B SaaS platform for subsurface data and core sample management, adding features and polishing UX for petroleum/mining/geology teams
-- 🤖 Also built **TrendPulse AI**, an AI-driven competitor research platform using Google Gemini AI
+- 🤖 Also built **TrendPulse AI**, an AI-driven competitor research platform powered by Groq's Llama 3.3 70B
 - 💻 Comfortable across the stack: REST APIs with Express/TypeScript, MongoDB schema design, and React/Next.js frontends
 - 🎯 I focus on getting the architecture and data modeling right before writing feature code — every project starts with a requirements/discovery pass, not just UI
 - 🌱 Started solving DSA basics on LeetCode
@@ -90,7 +90,8 @@ I'm **Md. Golam Rabbe**, a full stack developer building with **React, Next.js, 
 
 ### 🛢️ GeoLog — Subsurface Data & Core Sample Management
 
-- 🌐 **Live:** [Live Demo](PASTE_GEOLOG_VERCEL_LINK_HERE)
+- 🌐 **Live:** [Live Demo](https://geolog-platform.vercel.app)
+- 💻 **GitHub:** [Repository](https://github.com/golamrabbi73/geolog-platform)
 - 🛠️ **Tech:** Next.js, TypeScript, Express, MongoDB, Mongoose, Zod, React Hook Form, TanStack Query, JWT (httpOnly cookies)
 
 A deployed B2B SaaS platform for petroleum/mining/geology teams to manage well records and core sample data, built with a real requirements-first process rather than as a template clone.
@@ -113,12 +114,14 @@ A deployed B2B SaaS platform for petroleum/mining/geology teams to manage well r
 
 ### 📊 TrendPulse AI — Competitor Research Platform
 
-- 🛠️ **Tech:** Next.js 15, TypeScript, Tailwind CSS, React Query, Zustand, React Hook Form, Zod, Recharts, Node.js, Express.js, MongoDB, JWT, Google OAuth, Google Gemini AI
+- 🌐 **Live:** [Live Demo](https://trendpulse-rouge.vercel.app)
+- 💻 **GitHub:** [Repository](https://github.com/golamrabbi73/trendpulse)
+- 🛠️ **Tech:** Next.js 15, TypeScript, Tailwind CSS, React Query, Zustand, React Hook Form, Zod, Recharts, Node.js, Express.js, MongoDB, JWT, Google OAuth, Groq AI (Llama 3.3 70B)
 
 An AI-driven competitor research platform that helps businesses analyze competitors, spot market opportunities, and generate strategic marketing playbooks using Google Gemini AI.
 
 #### ✨ Features
-- AI-generated insights from uploaded business documents via Google Gemini
+- AI-generated insights from uploaded business documents via Groq's Llama 3.3 70B model
 - Asynchronous AI workflows with clear loading/feedback states for long-running analysis
 - Secure auth via JWT and Google OAuth
 - Data visualization with Recharts for competitor/market breakdowns
