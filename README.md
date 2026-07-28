@@ -1,7 +1,7 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
   <img 
-    src="https://i.ibb.co.com/G3QXTWnp/Chat-GPT-Image-Apr-29-2026-06-52-53-PM.png" 
+    src="https://i.ibb.co.com/F4sT2Stx/Chat-GPT-Image-Jul-28-2026-08-13-43-PM.png" 
     alt="Golam Rabbi - Full Stack Developer Banner" 
     width="100%" 
   />
