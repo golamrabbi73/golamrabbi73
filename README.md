@@ -2,7 +2,7 @@
 <p align="center">
   <img 
     src="https://i.ibb.co.com/F4sT2Stx/Chat-GPT-Image-Jul-28-2026-08-13-43-PM.png" 
-    alt="Golam Rabbi - Full Stack Developer Banner" 
+    alt="Md. Golam Rabbe - Full Stack Developer Banner" 
     width="100%" 
   />
 </p>
@@ -29,7 +29,7 @@
 
 ## 🙋‍♂️ About Me
 
-Hi, I'm **Golam Rabbi**, a passionate **Full Stack Developer** focused on building modern, responsive, and user-friendly web applications.
+Hi, I'm **Md. Golam Rabbe**, a passionate **Full Stack Developer** focused on building modern, responsive, and user-friendly web applications.
 
 - 💻 I work with **React, Next.js, Node.js, TypeScript, MongoDB, and Tailwind CSS**.
 - 🚀 I enjoy building clean, scalable, and maintainable frontend applications and backend APIs.
@@ -54,8 +54,8 @@ Hi, I'm **Golam Rabbi**, a passionate **Full Stack Developer** focused on buildi
 
 <p>
   📧 <strong>Email:</strong> 
-  <a href="mailto:golamrabbi73hr@gmail.com">
-    golamrabbi73hr@gmail.com
+  <a href="mailto:mdgolamrabbe.dev@gmail.com">
+    mdgolamrabbe.dev@gmail.com
   </a>
   <br/>
   📱 <strong>Phone:</strong> +880 1522127196
@@ -226,7 +226,7 @@ Hi, I'm **Golam Rabbi**, a passionate **Full Stack Developer** focused on buildi
     />
   </a>
 
-  <a href="mailto:golamrabbi73hr@gmail.com">
+  <a href="mailto:mdgolamrabbe.dev@gmail.com">
     <img 
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
       alt="Email" 
